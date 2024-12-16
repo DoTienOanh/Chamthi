@@ -1,0 +1,6 @@
+.frame2 > :nth-child(1){
+    background-color: white;
+    color: #3593D8;
+    height: 50px;
+    font-weight: 600;
+}
